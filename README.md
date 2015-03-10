@@ -1,5 +1,5 @@
 # ProteinBioSynthesis
-Pattern class for the sonification of DNA information in terms of the aminoacids it encodes in a living cell.
+SuperCollider Pattern class for the sonification of DNA information in terms of the aminoacids it encodes in a living cell.
 
 The superclass for a number of pattern classes that are related with mapping DNA data to aminoacid names and numbers.
 
